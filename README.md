@@ -1,6 +1,6 @@
 # Deep Learning-Powered Literature Review: Automating Knowledge Synthesis with E5 Embeddings
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo-path/E5_Embedding_Literature_Review.ipynb](https://colab.research.google.com/drive/1kuCoWm8Q_CxGECllLItcJIRc48XQm4-W?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo-path/E5_Embedding_Literature_Review.ipynb)
 
 ## Overview
 
