@@ -1,8 +1,6 @@
 # Deep Learning-Powered Literature Review: Automating Knowledge Synthesis with E5 Embeddings
 
-
-[Click here to open the notebook in Google Colab](https://colab.research.google.com/github/priyabhayani19/DL-Smarter-Literature-Review-with-Embedding-/blob/main/Deep_Learning_Powered_Literature_Review_Automating_Knowledge_Synthesis.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/priyabhayani19/DL-Smarter-Literature-Review-with-Embedding-/blob/main/Deep_Learning_Powered_Literature_Review_Automating_Knowledge_Synthesis.ipynb)
 
 ## Overview
 
